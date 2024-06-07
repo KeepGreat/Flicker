@@ -1,0 +1,10 @@
+<GroundNum> <RouteNum>
+此下有<GroundNum>行：
+<rect.x> <rect.y>
+......
+此下有<RouteNum>行：
+<pathrect.x> <pathrect.y> <pathrect.w> <pathrect.h> <routerect.x> <routerect.y> <routerect.w> <routerect.h> <oX> <oY> （该行共有10个int参数）
+......
+<StartPointX> <StartPointY>
+<EndPointX> <EndPointY>
+
